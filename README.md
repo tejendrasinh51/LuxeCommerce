@@ -440,6 +440,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 Built with precision by **Luxe Commerce**
 
-[Website](luxe-commerce-five.vercel.app) · [Contact](mailto:hello@luxecommerce.io)
+[Website]([luxe-commerce-five.vercel.app](https://luxe-commerce-five.vercel.app/)) · [Contact](mailto:hello@luxecommerce.io)
 
 </div>
